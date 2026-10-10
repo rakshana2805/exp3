@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c# LAB\Exp3\bin\Debug\net10.0\Exp3.exe
+C:\Users\Admin\Desktop\c# LAB\Exp3\bin\Debug\net10.0\Exp3.deps.json
+C:\Users\Admin\Desktop\c# LAB\Exp3\bin\Debug\net10.0\Exp3.runtimeconfig.json
+C:\Users\Admin\Desktop\c# LAB\Exp3\bin\Debug\net10.0\Exp3.dll
+C:\Users\Admin\Desktop\c# LAB\Exp3\bin\Debug\net10.0\Exp3.pdb
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.dll
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\refint\Exp3.dll
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.pdb
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\Exp3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c# LAB\Exp3\obj\Debug\net10.0\ref\Exp3.dll
